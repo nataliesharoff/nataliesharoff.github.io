@@ -1,0 +1,46 @@
+html {
+  background-color: #f5f7f9;
+}
+
+body {
+  background: none;
+  color: #69707a;
+  font-family: "Open Sans", Arial, sans-serif;
+}
+
+strong {
+  color: #222324;
+}
+.btn-primary:hover,
+.btn-primary:active,
+.btn-primary:focus,
+.btn-primary:active:focus {
+  background: #e05164;
+  border-color: #e05164;
+}
+
+.card {
+  border-color: #ccc;
+}
+
+.card-title {
+  color: #e16879;
+  font-weight: 300;
+}
+
+.card-block small {
+  float: right;
+}
+
+
+.jumbotron {
+  background-image: url("https://68.media.tumblr.com/38ab6887c8a3aa134b3b5f19e25d069f/tumblr_n53rba8gKs1re9b5zo2_500.gif");
+  background-size: cover;
+  color: white;
+  padding-top: 200px;
+  padding-bottom:200px;
+}
+
+.display-1 {
+  color:white;
+}
