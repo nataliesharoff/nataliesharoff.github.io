@@ -21,10 +21,11 @@
 	color:#eb99ff;
 }
 
-.background-image {
-	background-image: url(https://s-media-cache-ak0.pinimg.com/736x/fb/a8/b5/fba8b5f0cdc72a752e065c370ab52831.jpg);
-}
 
 .margin {
 	margin-top: 10px
+}
+
+.fa {
+	color: black;
 }
